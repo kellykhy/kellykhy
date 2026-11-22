@@ -1,16 +1,18 @@
-## Hi, there🙋‍♀️ 
-## Welcome to my archive! 
-<!--
-**kellykhy/kellykhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Hui Yeong Kim, a software engineer with a background in
+Computer Science and Applied Statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie in database systems, query optimization,
+and efficient data processing.
+
+## About Me
+- 🎓 B.S. in Applied Statistics & B.Eng. in Computer Science, Chung-Ang University
+- 💻 Software Engineer / Data Engineer
+- 🔍 Interested in database systems, query execution, and optimization
+- 📊 Background in Bayesian statistics and machine learning
+
+## Selected Projects
+- **[BART Student Research](https://github.com/kellykhy/BART_student_research)**  
+  Bayesian Additive Regression Trees for purchase intention prediction.
+
